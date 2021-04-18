@@ -7,6 +7,7 @@ An application to map out a busy employees day, hour by hour.
 * HTML
 * CSS
 * JavaScript
+* Day.js
 
 ## Website
 https://mandahos.github.io/busy-day/
